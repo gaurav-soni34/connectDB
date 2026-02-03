@@ -1,0 +1,3 @@
+PORT=8000
+
+MONGODB_URI=mongodb+srv://gauravsoni1967_db_user:<password>@cluster0.qndkoh7.mongodb.net
